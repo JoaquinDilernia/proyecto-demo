@@ -5,6 +5,7 @@ import NavBar from './components/NavBar/NavBar'
 import Footer from './components/Footer/Footer'
 import Video from './components/Video/Video'
 import ContTexto1 from './components/ContTexto1/ContTexto1'
+import ContText2 from './components/ContText2/ContText2'
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
     <NavBar />
       <Video />
       <ContTexto1 />
+      <ContText2 />
 
       <Footer />
     </>
