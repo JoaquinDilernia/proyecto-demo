@@ -1,0 +1,14 @@
+.navbar{
+    background-color: #1a1a1a;
+    height: 150px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 0 0 2rem 2rem;
+}
+
+.logo img{
+    width: 300px;
+    height: 300px;
+}

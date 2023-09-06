@@ -1,0 +1,19 @@
+.footer{
+    background-color: #1a1a1a;
+    height: 150px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 2rem 2rem 0 0;
+    -webkit-border-radius: 2rem 2rem 0 0;
+    -moz-border-radius: 2rem 2rem 0 0;
+    -ms-border-radius: 2rem 2rem 0 0;
+    -o-border-radius: 2rem 2rem 0 0;
+}
+
+.footer__logo img{
+    height: 150px;
+    width: 150px;
+}
