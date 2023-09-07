@@ -12,7 +12,7 @@ const Video = () => {
             <a href=""> QUIERO CAMBIAR MIS HABITOS </a>
         </motion.div>
         <motion.div  initial={{ x: 50 }} animate={{  x: 0 }} transition={{ duration: 2 }}className="contenedor-video">
-        <iframe src="https://www.youtube.com/embed/WXcJr7fSugU?si=vxWUs-vpJ9OKJe9V" title="YouTube video player"   allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/WXcJr7fSugU?si=vxWUs-vpJ9OKJe9V" title="YouTube video player"  ></iframe>
         </motion.div>
     </div>
 )

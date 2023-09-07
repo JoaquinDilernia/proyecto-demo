@@ -1,5 +1,5 @@
 .footer{
-    background-color: #1a1a1a;
+    background-color: #DABFFF;
     height: 150px;
     display: flex;
     justify-content:center;
@@ -17,3 +17,16 @@
     height: 150px;
     width: 150px;
 }
+
+@media screen and (max-width: 768px) {
+    .footer{
+        flex-direction: column;
+        height: 100px;
+    }
+    .footer__logo img{
+        width: 100px;
+        height: 100px;
+    }
+}
+    
+
