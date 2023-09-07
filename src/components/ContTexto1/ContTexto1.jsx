@@ -5,7 +5,7 @@ import { motion } from 'framer-motion'
 const ContTexto1 = () => {
   return (
     <div className='contenedor-cont'>
-      <motion.div initial={{ scale: 0.1 }} whileHover={{ scale: 1.05 }} animate={{ scale: 1 }} transition={{ duration: 1 }} className='contenedor-cont-texto'>
+      <motion.div initial={{ scale: 0.1 }} whileHover={{ scale: 1.02 }} animate={{ scale: 1 }} transition={{ duration: 1 }} className='contenedor-cont-texto'>
         <p className='titulo1'> ¿Te imaginas cambiar tu composición corporal <span> sin hacer dietas</span> únicamente cambiando tus hábitos? </p>
         <p className='subtitulo1'>Ahora imagínate la <span> cantidad de dietas </span>restrictivas que hiciste sin tener ningún resultado.  </p>
         <br />
